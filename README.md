@@ -59,9 +59,10 @@ sh ./start_multi_process.sh
     │   └── java
     │       └── com
     │           └── task360T
-    │               ├── common          # Shared constants
-    │               ├── multiprocess    # Code for the multi-process solution
-    │               └── singleprocess   # Code for the single-process solution
+    │               └── game 
+    │                   ├── common          # Shared constants
+    │                   ├── multiprocess    # Code for the multi-process solution
+    │                   └── singleprocess   # Code for the single-process solution
     └── test
         └── java
             └── ...               # Unit tests
