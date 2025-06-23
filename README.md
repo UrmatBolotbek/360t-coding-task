@@ -60,7 +60,6 @@ sh ./start_multi_process.sh
     └── test
         └── java
             └── ...               # Unit tests
-tests
 ```
 
 ### Class Responsibilities
